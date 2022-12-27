@@ -39,7 +39,8 @@
   "author": "Google LLC",
   "license": "BSD-3-Clause",
   "dependencies": {
-    "lit": "^2.2.4"
+    "lit": "^2.2.4",
+    "@microsoft/applicationinsights-web": "2.5.9"
   },
   "devDependencies": {
     "@11ty/eleventy": "^1.0.1",
